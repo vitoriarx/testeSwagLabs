@@ -1,0 +1,17 @@
+{
+  "name": "projetoselenium",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.2.0",
+    "chromedriver": "^135.0.4",
+    "selenium-webdriver": "^4.31.0"
+  }
+}
