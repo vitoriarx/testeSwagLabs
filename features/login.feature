@@ -5,9 +5,9 @@ Funcionalidade: Login
 Cenário: Login Válido
     Dado que eu acesse a página de login
     Quando digitar o nome de usuário 
-    E digitar a senha 
-    E clicar no botão de Login
-    Então a página inicial deve ser exibida
+    Quando digitar a senha 
+    Quando clicar no botão de Login
+    Então a página de produtos deve ser exibida
 
 
 Cenário: Login Inválido
